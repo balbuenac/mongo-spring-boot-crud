@@ -1,0 +1,3 @@
+crud/CrudApplication.class
+crud/controller/CategoryController.class
+crud/controller/CrudControllerAdvice.class
